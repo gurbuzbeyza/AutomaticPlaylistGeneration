@@ -7,11 +7,11 @@ In this repo, we are gonna investigate ways for automatic playlist generation.
 * Feature Selection
    * lyrics.ipynb:
         
-        Implements LDA on mxm lyrics data
+          Implements LDA on mxm lyrics data
         
    * Feature extraction from Spotify.ipynb:
         
-        Getting audio features of tracks from spotify
+          Getting audio features of tracks from spotify
 
 * Classification
    * Classification.ipynb
@@ -28,7 +28,7 @@ In this repo, we are gonna investigate ways for automatic playlist generation.
 * Use Case
    * Automatic Playlist Generation - Spotify Use Case.ipynb:
        
-       Playlist generation on spotify
+          Playlist generation on spotify
 
 * Dataset
    * msd_genre_dataset.csv
